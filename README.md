@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **reach, vue, node.js**
 
-- 📫 How to reach me **kevex665@gmail.com**
+- 📫 How to reach me **setupmsi@linuxmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
